@@ -1,0 +1,79 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Electronic money</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m42268</md:content-id>
+  <md:title>Electronic money</md:title>
+  <md:abstract>This module discusses several online payment methods used for e-commerce transactions.</md:abstract>
+  <md:uuid>f2941d6c-49c4-4791-b3d0-5e3e70e36549</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1169416410695">This is an adaptation of an excerpt from "Electronic Commerce: The Strategic Perspective" © 2008 by Richard T. Watson, Pierre Berthon, Leyland F. Pitt, and George M. Zinkhan, used under a Creative Commons Attribution license: <link url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</link>.</para>
+    <para id="id1169416221952">When commerce goes electronic, the means of paying for goods and services must also go electronic. Paperbased payment systems cannot support the speed, security, privacy, and internationalization necessary for electronic commerce. In this section, we discuss four methods of electronic payment:</para>
+    <list id="id1169419488297" list-type="bulleted">
+      <item>electronic funds transfer</item>
+      <item>digital cash</item>
+      <item>ecash </item>
+      <item>credit card</item>
+    </list>
+    <para id="id1169419479425">There are four fundamental concerns regarding electronic money: security , authentication, anonymity, and divisibility. Consumers and organizations need to be assured that their on-line orders are protected, and organizations must be able to transfer securely many millions of dollars. Buyers and sellers must be able to verify that the electronic money they receive is real; consumers must have faith in electronic currency. Transactions, when required, should remain confidential. Electronic currency must be spendable in small amounts (e.g., less than one tenth of a cent) so that high-volume, small-value Internet transactions are feasible (e.g., paying 0.1 cent to read an article in an encyclopedia). The various approaches to electronic money vary in their capability to solve these concerns (see Table 1).</para>
+    <table id="id1169416685418" summary="Characteristics of electronic money">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>
+              <emphasis effect="bold">Security</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="bold">Authentication</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="bold">Anonymity</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="bold">Divisibility</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry>EFT</entry>
+            <entry>High</entry>
+            <entry>High</entry>
+            <entry>Low</entry>
+            <entry>Yes</entry>
+          </row>
+          <row>
+            <entry>Digital cash</entry>
+            <entry>Medium</entry>
+            <entry>High</entry>
+            <entry>High</entry>
+            <entry>Yes</entry>
+          </row>
+          <row>
+            <entry>Ecash</entry>
+            <entry>High</entry>
+            <entry>High</entry>
+            <entry>High</entry>
+            <entry>Yes</entry>
+          </row>
+          <row>
+            <entry>Credit card</entry>
+            <entry>High</entry>
+            <entry>High</entry>
+            <entry>Low</entry>
+            <entry>Yes</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Characteristics of electronic money</caption>
+</table>
+    
+    <para id="id1169415393351">Any money system, real or electronic, must have a reasonable level of security and a high level of authentication, otherwise people will not use it. All electronic money systems are potentially divisible. There is a need, however, to adapt some systems so that transactions can be automated. For example, you do not want to have to type your full credit card details each time you spend one-tenth of a cent. A modified credit card system, which automatically sends previously stored details from your personal computer, could be used for small transactions.</para>
+    
+    <para id="id1169419153730">The technical problems of electronic money have not been completely solved, but many people are working on their solution because electronic money promises efficiencies that will reduce the costs of transactions between buyers and sellers. It will also enable access to the global marketplace. In the next few years, electronic currency will displace notes and coins for many transactions.</para>
+  </content>
+</document>

@@ -1,0 +1,45 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Categories of electronic commerce</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m42264</md:content-id>
+  <md:title>Categories of electronic commerce</md:title>
+  <md:abstract>This module discusses the various categories of electronic commerce based on the transactions and the relationships between the key stakeholders.</md:abstract>
+  <md:uuid>419ac57c-eeaf-4bdb-9bff-75b9f52fed7b</md:uuid>
+</metadata>
+
+<content>
+    <para id="id5736302">Electronic commerce can be categorised into different types by identifying the transactions and the relationships between the key stakeholders. According to Turban et al. (2010), the most common categories are as follows:</para>
+    <para id="id3358834">
+      <emphasis effect="bold">Business-to-business (B2B) </emphasis>
+    </para>
+    <para id="id1625023">In this category, all the stakeholders (i.e. the buyers and the sellers) are businesses or organisations. One example for this type would be companies such as <link url="http://www.sap.com/corporate-en/index.epx">SAP</link> and <link url="http://www.oracle.com/us/products/applications/ebusiness/index.html">Oracle</link> selling enterprise resource planning (ERP) software applications to manufacturing companies. </para>
+    <para id="id5262648">
+      <emphasis effect="bold">Business-to-Consumer (B2C)</emphasis>
+    </para>
+    <para id="id1606192">This category involves businesses or organisations selling products and services to the end consumer (i.e. businesses and organisations selling goods and services to the general public). Buying a book from Amazon.com can be categorised as B2C. </para>
+    <para id="id3175296">
+      <emphasis effect="bold">Business-to-Business-to-Consumer (B2B2C)</emphasis>
+    </para>
+    <para id="id7934953">A more recent categorisation is B2B2C where companies or organisations sell products and services to other companies and organisations; who in turn provides the product or service to its client base or staff. An example for this scenario would be a marketing company buying <link url="http://us.blackberry.com/">BlackBerry</link> smart phones from a telecoms service provider to give to the marketing staff or “road warriors” who are on the road promoting products. </para>
+    <para id="id3151710">
+      <emphasis effect="bold">Consumer-to-Business (C2B) </emphasis>
+    </para>
+    <para id="id2564291">With technology and access to technology becoming cheaper, end consumers who are the general public can now sell products and services to businesses. A housewife who sells cake recopies online to bakeries and a web developer selling his web design skills to a used-car dealership to setup an online catalogue are a couple of examples for C2B electronic commerce.</para>
+    <para id="id5591403">
+      <emphasis effect="bold">Intrabusiness EC </emphasis>
+    </para>
+    <para id="id8602264">This category relates to transactions taking place within an organisation where products and services are sold or exchanged between departments and employees. The professional education center of a University providing training on statistical analysis to the staff can be considered as an example for this category.</para>
+    <para id="id1585332">
+      <emphasis effect="bold">Business-to-Employees (B2E) </emphasis>
+    </para>
+    <para id="id1167664450347">This category can be considered as a subset of B2B2C and Intrabusiness EC. Both the examples of the company providing smart phones to road warriors and the professional education center providing training for University staff fall under this category. </para>
+    <para id="id1167665308661">
+      <emphasis effect="bold">Consumer-to-Consumer (C2C) </emphasis>
+    </para>
+    <para id="id6921286">C2C has become a major part of electronic commerce in the recent years due to platforms such as <link url="http://www.ebay.com/">ebay</link> and <link url="http://www.paypal.com">PayPal</link> which empowers the general public to buy and sell products directly from other individuals. Buying a used mobile phone on ebay is a good example of C2C electronic commerce. </para>
+    <para id="id6789164">
+      <emphasis effect="bold">References</emphasis>
+    </para>
+    <para id="id1167664475968">Turban, E., King, D., Lee, J., Liang, T. P., &amp; Turban, D. (2010). <emphasis effect="italics">Electronic Commerce 2010 A Managerial Perspective.</emphasis> New Jersey: Prentice Hall.</para>
+  </content>
+</document>

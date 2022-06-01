@@ -1,0 +1,44 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11773</md:content-id>
+  <md:title>Introduction to Electronic Commerce</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>d016a2e4-ca38-44d8-90e2-9271e5ebca70</md:uuid>
+<md:slug>introduction-to-electronic-commerce</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m42262"/>
+        
+      
+    
+    
+      <col:module document="m42264"/>
+        
+      
+    
+    
+      <col:module document="m42268"/>
+        
+      
+    
+    
+      <col:module document="m42269"/>
+        
+      
+    
+  </col:content>
+</col:collection>

@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Electronic Payment Methods</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m42269</md:content-id>
+  <md:title>Electronic Payment Methods</md:title>
+  <md:abstract>When commerce goes electronic, the means of paying for goods and services must also go electronic. This module discusses four methods of electronic payment.</md:abstract>
+  <md:uuid>69cd8d6c-0114-4e7c-8eea-404d84d327a5</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166004524210">This is an adaptation of an excerpt from "Electronic Commerce: The Strategic Perspective" © 2008 by Richard T. Watson, Pierre Berthon, Leyland F. Pitt, and George M. Zinkhan, used under a Creative Commons Attribution license: <link url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</link>.</para>
+    <para id="id1165999324746">
+      <emphasis effect="bold">Electronic funds transfer</emphasis>
+    </para>
+    <para id="id1166003011935">Electronic funds transfer (EFT), introduced in the late 1960s, uses the existing banking structure to support a wide variety of payments. For example, consumers can establish monthly checking account deductions for utility bills, and banks can transfer millions of dollars. EFT is essentially electronic checking. Instead of writing a check and mailing it, the buyer initiates an electronic checking transaction (e.g., using a debit card at a point-of-sale terminal). The transaction is then electronically transmitted to an intermediary (usually the banking system), which transfers the funds from the buyer's account to the seller's account. A banking system has one or more common clearinghouses that facilitate the flow of funds between accounts in different banks.</para>
+    <para id="id1166001296919">Electronic checking is fast; transactions are instantaneous. Paper handling costs are substantially reduced. Bad checks are no longer a problem because the seller's account balance is verified at the moment of the transaction. EFT is flexible; it can handle high volumes of consumer and commercial transactions, both locally and internationally. The international payment clearing system, consisting of more than 100 financial institutions, handles more than one trillion dollars per day.</para>
+    <para id="id1165999753445">The major shortfall of EFT is that all transactions must pass through the banking system, which is legally required to record every transaction. This lack of privacy can have serious consequences where as cash gives anonymity.</para>
+    <para id="id4451038">
+      <emphasis effect="bold">Digital cash</emphasis>
+    </para>
+    <para id="id1166003882693">Digital cash is an electronic parallel of notes and coins. Two variants of digital cash are presently available: prepaid cards and smart cards. The phonecard, the most common form of prepaid card, was first issued in 1976 by the forerunner of Telecom Italia. The problem with special-purpose cards, such as phone and photocopy cards, is that people end up with a purse or wallet full of cards. A smart card combines many functions into one card. A smart card can serve as personal identification, credit card, ATM card, telephone credit card, critical medical information record and as cash for small transactions. A smart card, containing memory and a microprocessor, can store as much as 100 times more data than a magnetic-stripe card. The microprocessor can be programmed.</para>
+    <para id="id1166003248087">The stored-value card, the most common application of smart card technology, can be used to purchase a wide variety of items (e.g,. fast food, parking, public transport tickets). Consumers buy cards of standard denominations (e.g., USD 50 or USD 100) from a card dispenser or bank. When the card is used to pay for an item, it must be inserted in a reader. Then, the amount of the transaction is transferred to the reader, and the value of the card is reduced by the transaction amount.</para>
+    <para id="id1165995064930">The problem with digital cash, like real cash, is that you can lose it or it can be stolen. It is not as secure as the other alternatives, but most people are likely to carry only small amounts of digital cash and thus </para>
+    <para id="id1165999902877">security is not so critical. As smart cards are likely to have a unique serial number, consumers can limit their loss by reporting a stolen or misplaced smart card to invalidate its use. Adding a PIN number to a smart card can raise its security level.</para>
+    <para id="id1166002145283">Twenty million smart cards are already in use in France, where they were introduced a decade earlier. In Austria, 2.5 million consumers carry a card that has an ATM magnetic stripe as well as a smart card chip. Storedvalue cards are likely to be in widespread use in the United States within five years. Their wide-scale adoption could provide substantial benefits. Counting, moving, storing and safeguarding cash is estimated to be 4 percent of the value of all transactions. There are also significant benefits to be gained because banks don't have to hold as much cash on hand, and thus have more money available for investment.</para>
+    <para id="id1166003497259">
+      <emphasis effect="bold">Ecash</emphasis>
+    </para>
+    <para id="id1166004000612">Digicash of Amsterdam has developed an electronic payment system called ecash that can be used to withdraw and deposit electronic cash over the Internet. The system is designed to provide secure payment between computers using e-mail or the Internet. Ecash can be used for everyday Internet transactions, such as buying software, receiving money from parents, or paying for a pizza to be delivered. At the same time, ecash provides the privacy of cash because the payer can remain anonymous.</para>
+    <para id="id1166004051285">To use ecash, you need a digital bank account and ecash client software. The client is used to withdraw ecash from your bank account, and store it on your personal computer. You can then spend the money at any location accepting ecash or send money to someone who has an ecash account.</para>
+    <para id="id1166004052831">The security system is based on public-key cryptography and passwords. You need a password to access your account and electronic transactions are encrypted.</para>
+    <para id="id1165998513215">
+      <emphasis effect="bold">Credit card</emphasis>
+    </para>
+    <para id="id1166004940464">Credit cards are a safe, secure, and widely used remote payment system. Millions of people use them every day for ordering goods by phone. Furthermore, people think nothing of handing over their card to a restaurant server, who could easily find time to write down the card's details. In the case of fraud in the U.S., banks already protect consumers, who are typically liable for only the first USD 50. So, why worry about sending your credit card number over the Internet? The development of secure servers and clients has made transmitting credit card numbers extremely safe. The major shortcoming of credit cards is that they do not support person-to-person transfers and do not have the privacy of cash.</para>
+  </content>
+</document>

@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction to Electronic Commerce and E-Business</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m42262</md:content-id>
+  <md:title>Introduction to Electronic Commerce and E-Business</md:title>
+  <md:abstract>This module introduces you to the concepts of e-commerce and e-business</md:abstract>
+  <md:uuid>db27c184-43eb-4a09-badd-e4f48cec8aeb</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1899252">One of the major buzz words of the last decade of the 20<sup>th</sup> century was “e-commerce”. With the rise of mega online stores like <link url="http://www.amazon.com/"><emphasis effect="underline">Amazon.com</emphasis></link>, online auctions such as <link url="http://www.ebay.com/"><emphasis effect="underline">ebay</emphasis></link>, credit cards, plastic money and payment gateways such as <link url="http://www.paypal.com/"><emphasis effect="underline">paypal</emphasis></link> the consumerism of the masses was taken to a whole different playing field. For the first time in history, people could buy stuff form the comfort of their homes or while having lunch in their work places. According to Turban et al. (201) </para>
+    <para id="id2948608">
+      <emphasis effect="italics">“Electronic commerce (EC) is the process of buying, selling, transferring, or exchanging products, services, and/or information via computer networks, mostly the Internet and intranets”</emphasis>
+    </para>
+    
+    <para id="id1637870">This roughly means that e-commerce concentrates on getting the orders and the payments from the customers into a business. All other operations we conducted as usual in the old fashioned way. You can get a better understanding about e-commerce from <link url="http://en.wikipedia.org/wiki/E-commerce">http://en.wikipedia.org/wiki/E-commerce</link>.</para>
+    
+    <para id="id3258299">However, the 21st century and the rapid advancements in technology have given rise to a completely new paradigm which is known as e-business. Wikipedia defines it as:</para>
+    
+    <para id="id4453576"><emphasis effect="italics">“…the application of information and communication technologies (ICT) in support of </emphasis><emphasis effect="italics">all the activities of business</emphasis><emphasis effect="italics">.” </emphasis>(Electronic business)<emphasis effect="italics"/></para>
+    
+    <para id="id2367568">With the rise of e-business, a complete business comprising of all the intricate operations can be taken online which results in the rise of virtual companies with virtual employees contributing from every corner of the globe. E-business has made geography insignificant when it comes to competing in the global market. To get a better understanding of e-business see <link url="http://en.wikipedia.org/wiki/Electronic_business">http://en.wikipedia.org/wiki/Electronic_business</link></para>
+    <para id="id3295860">
+      <emphasis effect="bold">References</emphasis>
+    </para>
+    <para id="id2211521"><emphasis effect="italics">Electronic business.</emphasis> (n.d.). Retrieved 01 06, 2011, from Wikipedia: http://en.wikipedia.org/wiki/Electronic_business</para>
+    <para id="id3757069">Turban, E., King, D., Lee, J., Liang, T. P., &amp; Turban, D. (2010). <emphasis effect="italics">Electronic Commerce 2010 A Managerial Perspective.</emphasis> New Jersey: Prentice Hall.</para>
+  </content>
+</document>
